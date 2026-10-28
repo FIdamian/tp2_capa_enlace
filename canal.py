@@ -1,0 +1,1 @@
+#El simulador de medio ruidoso (invierte bits o descarta paquetes de forma aleatoria)

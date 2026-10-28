@@ -1,11 +1,11 @@
 \# Archivos de caché de Python
-__pycache__/ 
-*.pyc 
+__pycache__/
+*.pyc
 
-# Archivos de configuración de VS Code e IDEs 
-.vscode/ 
-.idea/ 
+# Archivos de configuración de VS Code e IDEs
+.vscode/
+.idea/
 
-# Entornos virtuales 
-venv/ 
+# Entornos virtuales
+venv/
 env/
