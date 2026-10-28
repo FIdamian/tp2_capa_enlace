@@ -1,0 +1,1 @@
+Este es un mensaje de prueba para verificar la transmisión de archivos fragmentados a traves de la Capa de Enlace 
